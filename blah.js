@@ -1,0 +1,18 @@
+var f = "Ur";
+console.log(f);
+var l = "anus";
+console.log(l);
+var fl = f.concat(l);
+console.log(fl);
+var a = 69;
+console.log(a);
+var b = 96;
+console.log(b);
+var c = a + b ;
+console.log(c);
+var d = a - b ;
+console.log(d);
+var e = a * b ;
+console.log(e);
+var f = a / b ;
+console.log(f);
